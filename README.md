@@ -1,3 +1,3 @@
 # voice-transmitting-tcp
 
-###Max clients: 2
+### Max clients: 2
