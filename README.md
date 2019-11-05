@@ -2,4 +2,4 @@
 
 ### Max clients: 2
 
-# Works bad
+# Works bad(if not localhost)
